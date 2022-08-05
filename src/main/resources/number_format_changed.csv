@@ -1,0 +1,4 @@
+date,customer_id,product_category,payment_method,value [USD],time_on_site [Minutes],clicks_in_site
+20/11/18,37077,505,credit,49.53x,12,8
+20/11/18,59173,509,paypal,50.61,25.9,8
+20/11/18,41066,507,credit,85.99,34.9,11
